@@ -1,37 +1,66 @@
-# 👋 Hi, I'm Kuxa
+# 👋 Hi, I'm Daniel
 
-20 years old developer passionate about backend development and databases.
+Backend-focused Software Developer specializing in C# / .NET and relational databases.  
+Passionate about designing scalable, maintainable, and performance-driven systems.
 
-## 👨‍💻 About Me
-- Full Stack Developer with focus on backend
-- Passionate about clean code and scalable solutions
-- Open to collaborations and new work
-- Bodybuilding enthusiast
+---
 
-## 🛠️ Skills & Technologies
+## 👨‍💻 Engineering Focus
 
-### 💻 Programming Languages
-- **C#** - Primary language
-- **Java** - Object-oriented development
-- **PHP** - Web development
-- **Python** - Automation & scripting
-- **C++** - Systems & performance-critical applications
+- Strong focus on backend development with .NET
+- Designing clean, modular and maintainable architectures
+- Working with relational databases and optimized SQL queries
+- Interested in system design, performance tuning and scalability
+- Writing readable, testable and production-oriented code
 
+---
 
-### 🗄️ Databases
-- **MSSQL** - Microsoft SQL Server
-- **Oracle** - Enterprise databases
-- **PostgreSQL** - Modern relational DB
-- **MariaDB** - Open-source relational DB
-- **MongoDB** - NoSQL & document-based
+## 🛠️ Core Stack
 
-## 🎯 What I'm Currently Working On
-- Always learning - The clock never stops ticking
-- Deep diving into Software Architecture & Design Patterns
-- Exploring AI & Machine Learning applications
-- Building scalable backend applications
+### Backend
+- C# / .NET
+- ASP.NET Core (Web APIs)
+- RESTful API design
+- Object-Oriented Programming (OOP)
+- SOLID principles
+- Basic knowledge of Design Patterns
 
-## 📫 How to Reach Me
+### Databases
+- Microsoft SQL Server
+- PostgreSQL
+- Oracle
+- Query optimization & relational data modeling
+
+### Additional Experience
+- Java
+- PHP
+- Python (automation & scripting)
+- C++
+- MongoDB
+- MariaDB
+
+---
+
+## 🧠 Currently Deep Diving Into
+
+- Software Architecture (Layered, Clean Architecture concepts)
+- Design Patterns & best practices
+- Scalable backend system design
+- Performance optimization
+- Exploring AI & machine learning fundamentals
+
+---
+
+## 🚀 Mindset
+
+I value clean abstractions, well-structured codebases and long-term maintainability  
+over quick hacks.  
+
+Always improving. Always building.
+
+---
+
+## 📫 Contact
+
 - 📧 Email: tbd
 - 💼 LinkedIn: tbd
----
