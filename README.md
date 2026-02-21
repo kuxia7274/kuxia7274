@@ -32,6 +32,8 @@ Passionate about designing scalable, maintainable, and performance-driven system
 - Oracle
 - Query optimization & indexing basics
 
+---
+
 ## 🏢 Professional Workflow & Collaboration
 
 - Working with Azure DevOps
