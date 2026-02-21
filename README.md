@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Kuxa
 
-<!--
-**kuxia7274/kuxia7274** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+20 years old developer passionate about backend development and databases.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- Full Stack Developer with focus on backend
+- Passionate about clean code and scalable solutions
+- Open to collaborations and new work
+- Bodybuilding enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Technologies
+
+### 💻 Programming Languages
+- **C#** - Primary language
+- **Java** - Object-oriented development
+- **PHP** - Web development
+- **Python** - Automation & scripting
+- **C++** - Systems & performance-critical applications
+
+
+### 🗄️ Databases
+- **MSSQL** - Microsoft SQL Server
+- **Oracle** - Enterprise databases
+- **PostgreSQL** - Modern relational DB
+- **MariaDB** - Open-source relational DB
+- **MongoDB** - NoSQL & document-based
+
+## 🎯 What I'm Currently Working On
+- Always learning - The clock never stops ticking
+- Deep diving into Software Architecture & Design Patterns
+- Exploring AI & Machine Learning applications
+- Building scalable backend applications
+
+## 📫 How to Reach Me
+- 📧 Email: tbd
+- 💼 LinkedIn: tbd
+---
