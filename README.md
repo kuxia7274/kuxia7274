@@ -7,11 +7,11 @@ Passionate about designing scalable, maintainable, and performance-driven system
 
 ## 👨‍💻 Engineering Focus
 
-- Strong focus on backend development with .NET
-- Designing clean, modular and maintainable architectures
-- Working with relational databases and optimized SQL queries
-- Interested in system design, performance tuning and scalability
-- Writing readable, testable and production-oriented code
+- Backend development with .NET
+- Clean architecture & modular design
+- Writing testable and production-oriented code
+- Relational data modeling and SQL optimization
+- Performance and scalability awareness
 
 ---
 
@@ -23,28 +23,38 @@ Passionate about designing scalable, maintainable, and performance-driven system
 - RESTful API design
 - Object-Oriented Programming (OOP)
 - SOLID principles
-- Basic knowledge of Design Patterns
+- Design pattern fundamentals
+- Python (automation & scripting)
 
 ### Databases
 - Microsoft SQL Server
 - PostgreSQL
 - Oracle
-- Query optimization & relational data modeling
+- Query optimization & indexing basics
 
-### Additional Experience
-- Java
-- PHP
-- Python (automation & scripting)
-- C++
-- MongoDB
-- MariaDB
+## 🏢 Professional Workflow & Collaboration
+
+- Working with Azure DevOps
+- Experience with structured branching & ticket-based development
+- Familiar with Jira & Confluence
+- Understanding of team-based development processes
 
 ---
 
-## 🧠 Currently Deep Diving Into
+## 💻 Systems & Environment
 
-- Software Architecture (Layered, Clean Architecture concepts)
-- Design Patterns & best practices
+- Primarily Windows-based development
+- Dual-boot setup with Fedora Linux
+- Comfortable working in CLI environments
+- Experience with Raspberry Pi (Linux-based systems)
+- Basic embedded experimentation with Arduino
+
+---
+
+## 🧠 Currently Expanding Into
+
+- Software Architecture (Clean Architecture concepts)
+- Advanced design patterns
 - Scalable backend system design
 - Performance optimization
 - Exploring AI & machine learning fundamentals
